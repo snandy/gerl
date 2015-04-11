@@ -1,0 +1,36 @@
+{
+  "name": "nut",
+  "description": "前端开发集成解决方案",
+  "version": "1.0.0",
+  "author": {
+    "name": "nut",
+    "email": "zhouyrt@126.com"
+  },
+  "homepage": "https://github.com/snandy/nut",
+  "keywords": [
+    "nut"
+  ],
+  "license": "MIT",
+  "bin": {
+    "nut": "bin/nut"
+  },
+  "engines": {
+    "node": ">= 0.8.0"
+  },
+  "main": "index.js",
+  "scripts": {
+    "test": "test/test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/snandy/nut.git"
+  },
+  "bugs": {
+    "url": "http://github.com/snandy/nut/issues"
+  },
+  "preferGlobal": true,
+  "readmeFilename": "README.md",
+  "dependencies": {
+    "uglify-js": "2.4.12"
+  }
+}
