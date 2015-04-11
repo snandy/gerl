@@ -1,18 +1,18 @@
 {
-  "name": "nut",
+  "name": "jdy",
   "description": "前端开发集成解决方案",
   "version": "1.0.0",
   "author": {
-    "name": "nut",
+    "name": "jdy",
     "email": "zhouyrt@126.com"
   },
-  "homepage": "https://github.com/snandy/nut",
+  "homepage": "https://github.com/snandy/jdy",
   "keywords": [
-    "nut"
+    "jdy"
   ],
   "license": "MIT",
   "bin": {
-    "nut": "bin/nut"
+    "jdy": "bin/jdy"
   },
   "engines": {
     "node": ">= 0.8.0"
@@ -23,10 +23,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/snandy/nut.git"
+    "url": "https://github.com/snandy/jdy.git"
   },
   "bugs": {
-    "url": "http://github.com/snandy/nut/issues"
+    "url": "http://github.com/snandy/jdy/issues"
   },
   "preferGlobal": true,
   "readmeFilename": "README.md",
