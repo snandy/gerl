@@ -1,7 +1,7 @@
 {
   "name": "gerl",
-  "description": "FE test",
-  "version": "1.0.14",
+  "description": "FE Tool",
+  "version": "1.0.16",
   "author": {
     "name": "gerl",
     "email": "zhouyrt@126.com"
@@ -31,5 +31,12 @@
   "preferGlobal": true,
   "readmeFilename": "README.md",
   "dependencies": {
+    "grunt": "^0.4.5",
+    "underscore": "~1.5",
+    "grunt-contrib-less": "~0.8.2",
+    "grunt-contrib-cssmin": "~0.6.0",
+    "grunt-contrib-jshint": "~0.1.1",
+    "grunt-contrib-uglify": "~0.1.2",
+    "grunt-contrib-concat": "~0.1.1"    
   }
 }
